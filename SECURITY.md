@@ -74,7 +74,8 @@ for all members.
 We learn about critical software updates and security threats from these sources
 
 1. GitHub Security Alerts
-2. [Greenkeeper](https://greenkeeper.io/) Dependency Updates
-3. GitHub: https://status.github.com/ & [@githubstatus](https://twitter.com/githubstatus)
-4. Glitch (Hosting): https://status.glitch.com/ & [@glitch](https://twitter.com/glitch?lang=ens)
-5. Travis (CI/CD): https://www.traviscistatus.com/ & [@traviscistatus](https://twitter.com/traviscistatus)
+1. [Greenkeeper](https://greenkeeper.io/) Dependency Updates
+1. GitHub: https://status.github.com/ & [@githubstatus](https://twitter.com/githubstatus)
+1. Snyk (Vulnerabilities): https://snyk.io/ & [@snyksec](https://twitter.com/snyksec)
+1. Glitch (Hosting): https://status.glitch.com/ & [@glitch](https://twitter.com/glitch?lang=ens)
+1. Travis (CI/CD): https://www.traviscistatus.com/ & [@traviscistatus](https://twitter.com/traviscistatus)

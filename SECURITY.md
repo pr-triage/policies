@@ -25,6 +25,7 @@ who can disable any access for the PRTriage app until the security incident is r
 In case an incident is discovered or reported, I will follow the following
 process to contain, respond and remediate:
 
+
 ### 1. Containment
 
 The first step is to find out the root cause, nature and scope of the incident.
@@ -38,19 +39,19 @@ One way to immediately remove all access for the PRTriage app is to remove the
 private key from the PRTriage App Settings page. The access can be recovered later
 by generating a new private key and re-deploy the app.
 
+
 ### 2. Response
 
 After the initial assessment and containment to my best abilities, I will
 document all actions taken in a response plan.
 
-I will create a comment in [the official "Updates" issue](https://github.com/wip/app/issues/89) to inform users about
-the incident and what I actions I took to contain it.
 
 ### 3. Remediation
 
 Once the incident is confirmed to be resolved, I will summarize the lessons
 learned from the incident and create a list of actions I will take to prevent
 it from happening again.
+
 
 <a name="vulnerability-management"></a>
 ## Vulnerability Management Plans

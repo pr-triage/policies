@@ -10,20 +10,19 @@ If you choose to use the app, then you agree to the collection and use of inform
 
 When installing the the app you grant it access to the following two scopes
 
-1. Read access to [pull requests](https://developer.github.com/v3/apps/permissions/#permission-on-statuses) (`GET` routes only).
-2. Read & write access to [commit status](https://developer.github.com/v3/apps/permissions/#permission-on-statuses).
+- Read access to [pull requests](https://developer.github.com/v3/apps/permissions/#permission-on-statuses) (`GET` routes only).
 
 Here is a list of contents that the app uses:
 
 - Repository Name
-- Pull Requests titles & bodies
-- Pull Request comments
-- Pull Request commit messages
+- Pull Requests titles
+- Pull Requests reviews
+- Pull Requests commits hash
 - Pull Request labels
 
 It also creates and updates status of the last commit in a pull request.
 
-None of the information is stored or shared with third party services, with the exception of [Zeit’s now](https://zeit.co/now) where the app is hosted. Some of the information above may be stored temporarily in log files for debugging purpose only.
+None of the information is stored or shared with third party services, with the exception of [Glitch](https://glitch.com) where the app is hosted. Some of the information above may be stored temporarily in log files for debugging purpose only.
 
 ## Security
 
@@ -35,4 +34,4 @@ I may update this privacy policy from time to time. Thus, you are advised to rev
 
 ## Contact me
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me via creating an issue.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me via [creating an issue](https://github.com/pr-triage/policies/issues/new?labels=privacy).

@@ -79,5 +79,5 @@ We learn about critical software updates and security threats from these sources
 1. Dependabot (Dependency management for general): https://dependabot.com/ & [@dependabot](https://twitter.com/dependabot)
 1. Snyk (Dependency management for security): https://snyk.statuspage.io/ & [@snyksec](https://twitter.com/snyksec)
 1. Travis (Continuous Integration): https://www.traviscistatus.com/ & [@traviscistatus](https://twitter.com/traviscistatus)
-1. Glitch (Hosting): https://status.glitch.com/ & [@glitch](https://twitter.com/glitch?lang=ens)
+1. Now (Hosting): https://zeit-status.co/ & [@zeit_status](https://twitter.com/zeit_status)
 

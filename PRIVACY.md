@@ -22,7 +22,7 @@ Here is a list of contents that the app uses:
 
 It also creates and updates status of the last commit in a pull request.
 
-None of the information is stored or shared with third party services, with the exception of [Glitch](https://glitch.com) where the app is hosted. Some of the information above may be stored temporarily in log files for debugging purpose only.
+None of the information is stored or shared with third party services, with the exception of [Heroku](https://heroku.com) where the app is hosted. Some of the information above may be stored temporarily in log files for debugging purpose only.
 
 ## Security
 

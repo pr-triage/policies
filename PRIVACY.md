@@ -8,9 +8,9 @@ If you choose to use the app, then you agree to the collection and use of inform
 
 ## Information collection and use
 
-When installing the the app you grant it access to the following two scopes
+When installing the the app you grant it access to the following one scope
 
-- Read access to [pull requests](https://developer.github.com/v3/apps/permissions/#permission-on-statuses) (`GET` routes only).
+- Read access and write access to [pull requests](https://developer.github.com/v3/apps/permissions/#permission-on-statuses).
 
 Here is a list of contents that the app uses:
 
@@ -19,8 +19,6 @@ Here is a list of contents that the app uses:
 - Pull Requests reviews
 - Pull Requests commits hash
 - Pull Request labels
-
-It also creates and updates status of the last commit in a pull request.
 
 None of the information is stored or shared with third party services, with the exception of [Heroku](https://heroku.com) where the app is hosted. Some of the information above may be stored temporarily in log files for debugging purpose only.
 
